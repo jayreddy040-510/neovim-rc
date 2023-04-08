@@ -15,3 +15,6 @@ tasks.py
 api_caller/tasks.
 packer.lua
 celery_proj
+tasks.
+.config/nvim/remap.lua
+celery_proj

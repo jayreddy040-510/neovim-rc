@@ -8,5 +8,6 @@ vim.cmd [[
 ]]
 
 vim.opt.relativenumber = true
+vim.cmd('set nohlsearch')
 vim.o.runtimepath = vim.o.runtimepath .. ',' .. '~/.local/share/nvim/site/pack/packer/start/packer.nvim'
 require('packer').init()
