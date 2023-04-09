@@ -390,7 +390,7 @@
       "LSP"
     ],
     "source": {
-      "id": "pkg:npm/awk-language-server@0.9.5"
+      "id": "pkg:npm/awk-language-server@0.10.0"
     },
     "bin": {
       "awk-language-server": "npm:awk-language-server"
@@ -3440,7 +3440,7 @@
       "LSP"
     ],
     "source": {
-      "id": "pkg:github/GroovyLanguageServer/groovy-language-server@6439fc5b98b3b7187650c60ed561f7f18da3f62c",
+      "id": "pkg:github/GroovyLanguageServer/groovy-language-server@4866a3f2c180f628405b1e4efbde0949a1418c10",
       "build": {
         "run": "./gradlew --no-daemon build"
       }
@@ -3524,7 +3524,7 @@
       "LSP"
     ],
     "source": {
-      "id": "pkg:github/vshaxe/haxe-language-server@29f20baaf8bfd714a4a5ca3c6eee06cd2b71f182",
+      "id": "pkg:github/vshaxe/haxe-language-server@5d0e083e374b4881d232349920c320a42845db5f",
       "build": {
         "run": "npm install\nnpm exec -- lix run vshaxe-build -t language-server\nnpm install --production\n"
       }
@@ -4605,7 +4605,7 @@
       "LSP"
     ],
     "source": {
-      "id": "pkg:github/digama0/mm0@571c86faca5f8ba8ae859acfa90bc4cdbc66d812",
+      "id": "pkg:github/digama0/mm0@d3b7a2039405c6d78382ee3ed6730af85d6bdb73",
       "build": [
         {
           "target": [
@@ -6758,13 +6758,13 @@
       "LSP"
     ],
     "source": {
-      "id": "pkg:github/awslabs/smithy-language-server@2a9ef9cc7cf2ad054c0320a395a19ec6e1a9f7bc",
+      "id": "pkg:github/awslabs/smithy-language-server@ce330ecdfb0ac526997410a9308ff140294f9946",
       "build": {
         "run": "./gradlew --no-daemon build"
       }
     },
     "bin": {
-      "smithy-language-server": "java-jar:build/libs/smithy-language-server-0.2.2.jar"
+      "smithy-language-server": "java-jar:build/libs/smithy-language-server-0.2.3.jar"
     }
   },
   {
@@ -7041,7 +7041,7 @@
     "source": {
       "id": "pkg:github/stoplightio/vscode-spectral@v1.1.2",
       "build": {
-        "run": "npm exec yarn@1 install\nnpm exec --package=yarn@1 'node make package'\nnode make package\n"
+        "run": "npm exec yarn@1 install\nnpm exec --package=yarn@1 'node make package'\n"
       }
     },
     "bin": {
@@ -7954,7 +7954,7 @@
       "LSP"
     ],
     "source": {
-      "id": "pkg:github/vala-lang/vala-language-server@7577ffb269cd31da8815b7eadd72867965a2c742",
+      "id": "pkg:github/vala-lang/vala-language-server@3b5fe941bea6ecd5c8fcb84930c40b8582eea165",
       "build": [
         {
           "target": [
