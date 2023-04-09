@@ -1,9 +1,9 @@
-[15:42:45.079][info] [#0:/Users/jayreddy/.config/nvim/mason/packages/lua-language-server/libexec/main.lua:66]: Lua Lsp startup, root: 	/Users/jayreddy/.config/nvim/mason/packages/lua-language-server/libexec
-[15:42:45.080][info] [#0:/Users/jayreddy/.config/nvim/mason/packages/lua-language-server/libexec/main.lua:67]: ROOT:	/Users/jayreddy/.config/nvim/mason/packages/lua-language-server/libexec
-[15:42:45.080][info] [#0:/Users/jayreddy/.config/nvim/mason/packages/lua-language-server/libexec/main.lua:68]: LOGPATH:	/Users/jayreddy/.config/nvim/mason/packages/lua-language-server/libexec/log
-[15:42:45.080][info] [#0:/Users/jayreddy/.config/nvim/mason/packages/lua-language-server/libexec/main.lua:69]: METAPATH:	/Users/jayreddy/.config/nvim/mason/packages/lua-language-server/libexec/meta
-[15:42:45.080][info] [#0:/Users/jayreddy/.config/nvim/mason/packages/lua-language-server/libexec/main.lua:70]: VERSION:	3.6.18
-[15:42:45.104][info] [#0:script/service/service.lua:144]: 
+[10:56:06.401][info] [#0:/Users/jayreddy/.config/nvim/mason/packages/lua-language-server/libexec/main.lua:66]: Lua Lsp startup, root: 	/Users/jayreddy/.config/nvim/mason/packages/lua-language-server/libexec
+[10:56:06.402][info] [#0:/Users/jayreddy/.config/nvim/mason/packages/lua-language-server/libexec/main.lua:67]: ROOT:	/Users/jayreddy/.config/nvim/mason/packages/lua-language-server/libexec
+[10:56:06.402][info] [#0:/Users/jayreddy/.config/nvim/mason/packages/lua-language-server/libexec/main.lua:68]: LOGPATH:	/Users/jayreddy/.config/nvim/mason/packages/lua-language-server/libexec/log
+[10:56:06.402][info] [#0:/Users/jayreddy/.config/nvim/mason/packages/lua-language-server/libexec/main.lua:69]: METAPATH:	/Users/jayreddy/.config/nvim/mason/packages/lua-language-server/libexec/meta
+[10:56:06.402][info] [#0:/Users/jayreddy/.config/nvim/mason/packages/lua-language-server/libexec/main.lua:70]: VERSION:	3.6.18
+[10:56:06.427][info] [#0:script/service/service.lua:144]: 
 ========= Medical Examination Report =========
     --------------- Memory ---------------
         Total: 2.112 MB
@@ -25,7 +25,7 @@
         Holdon:   0
         Waiting:  0
 ==============================================
-[15:42:45.108][info] [#0:script/client.lua:657]: Client init	{
+[10:56:06.431][info] [#0:script/client.lua:657]: Client init	{
   capabilities = {
     callHierarchy = {
       dynamicRegistration = false
@@ -161,7 +161,7 @@
     version = "0.8.3"
   },
   initializationOptions = {},
-  processId = 93377,
+  processId = 75875,
   rootPath = "/Users/jayreddy/.config/nvim/lua/",
   rootUri = "file:///Users/jayreddy/.config/nvim/lua/",
   trace = "off",
@@ -170,171 +170,210 @@
       uri = "file:///Users/jayreddy/.config/nvim/lua/"
     } }
 }
-[15:42:45.108][info] [#0:script/language.lua:137]: VSC language: nil
-[15:42:45.108][info] [#0:script/language.lua:138]: LS  language: en-us
-[15:42:45.108][info] [#0:script/workspace/workspace.lua:38]: Workspace init root: 	file:///Users/jayreddy/.config/nvim/lua/
-[15:42:45.108][info] [#0:script/workspace/workspace.lua:42]: Log path: 	/Users/jayreddy/.config/nvim/mason/packages/lua-language-server/libexec/log/file_Users_jayreddy_.config_nvim_lua_.log
-[15:42:45.109][info] [#0:script/workspace/workspace.lua:48]: Workspace create: 	file:///Users/jayreddy/.config/nvim/lua/
-[15:42:47.039][info] [#0:script/provider/provider.lua:46]: Load config from client	file:///Users/jayreddy/.config/nvim/lua/
-[15:42:47.039][info] [#0:script/provider/provider.lua:47]: {
+[10:56:06.431][info] [#0:script/language.lua:137]: VSC language: nil
+[10:56:06.431][info] [#0:script/language.lua:138]: LS  language: en-us
+[10:56:06.431][info] [#0:script/workspace/workspace.lua:38]: Workspace init root: 	file:///Users/jayreddy/.config/nvim/lua/
+[10:56:06.431][info] [#0:script/workspace/workspace.lua:42]: Log path: 	/Users/jayreddy/.config/nvim/mason/packages/lua-language-server/libexec/log/file_Users_jayreddy_.config_nvim_lua_.log
+[10:56:06.431][info] [#0:script/workspace/workspace.lua:48]: Workspace create: 	file:///Users/jayreddy/.config/nvim/lua/
+[10:56:06.433][info] [#0:script/provider/provider.lua:46]: Load config from client	file:///Users/jayreddy/.config/nvim/lua/
+[10:56:06.433][info] [#0:script/provider/provider.lua:47]: {
   Lua = {
     telemetry = {
       enable = false
     }
   }
 }
-[15:42:47.039][info] [#0:script/provider/provider.lua:46]: Load config from client	file:///Users/jayreddy/.config/nvim/lua/
-[15:42:47.039][info] [#0:script/provider/provider.lua:47]: {
+[10:56:06.433][info] [#0:script/provider/provider.lua:46]: Load config from client	file:///Users/jayreddy/.config/nvim/lua/
+[10:56:06.433][info] [#0:script/provider/provider.lua:47]: {
   Lua = {
     telemetry = {
       enable = false
     }
   }
 }
-[15:42:47.040][info] [#0:script/provider/provider.lua:46]: Load config from client	file:///Users/jayreddy/.config/nvim/lua/
-[15:42:47.040][info] [#0:script/provider/provider.lua:47]: {
+[10:56:06.433][info] [#0:script/provider/provider.lua:46]: Load config from client	file:///Users/jayreddy/.config/nvim/lua/
+[10:56:06.433][info] [#0:script/provider/provider.lua:47]: {
   Lua = {
     telemetry = {
       enable = false
     }
   }
 }
-[15:42:47.040][info] [#0:script/provider/provider.lua:61]: Load config from client	fallback
-[15:42:47.040][info] [#0:script/provider/provider.lua:62]: {
+[10:56:06.537][info] [#0:script/provider/provider.lua:61]: Load config from client	fallback
+[10:56:06.537][info] [#0:script/provider/provider.lua:62]: {
   Lua = {
     telemetry = {
       enable = false
     }
   }
 }
-[15:42:47.040][info] [#0:script/library.lua:212]: Init builtin library at:	file:///Users/jayreddy/.config/nvim/lua/
-[15:42:47.051][info] [#0:script/plugin.lua:86]: plugin path:	/Users/jayreddy/.config/nvim/lua
-[15:42:47.051][warn] [#0:script/plugin.lua:101]: plugin not found:	/Users/jayreddy/.config/nvim/lua
-[15:42:47.051][info] [#0:script/library.lua:212]: Init builtin library at:	nil
-[15:42:47.056][info] [#0:script/provider/provider.lua:61]: Load config from client	fallback
-[15:42:47.056][info] [#0:script/provider/provider.lua:62]: {
+[10:56:06.537][info] [#0:script/library.lua:212]: Init builtin library at:	file:///Users/jayreddy/.config/nvim/lua/
+[10:56:06.555][info] [#0:script/plugin.lua:86]: plugin path:	/Users/jayreddy/.config/nvim/lua
+[10:56:06.555][warn] [#0:script/plugin.lua:101]: plugin not found:	/Users/jayreddy/.config/nvim/lua
+[10:56:06.555][info] [#0:script/library.lua:212]: Init builtin library at:	nil
+[10:56:06.565][info] [#0:script/provider/provider.lua:61]: Load config from client	fallback
+[10:56:06.565][info] [#0:script/provider/provider.lua:62]: {
   Lua = {
     telemetry = {
       enable = false
     }
   }
 }
-[15:42:47.056][info] [#0:script/provider/provider.lua:61]: Load config from client	fallback
-[15:42:47.056][info] [#0:script/provider/provider.lua:62]: {
+[10:56:06.565][info] [#0:script/provider/provider.lua:61]: Load config from client	fallback
+[10:56:06.565][info] [#0:script/provider/provider.lua:62]: {
   Lua = {
     telemetry = {
       enable = false
     }
   }
 }
-[15:42:47.156][info] [#0:script/workspace/workspace.lua:322]: Preload start:	file:///Users/jayreddy/.config/nvim/lua/
-[15:42:47.162][info] [#0:script/workspace/workspace.lua:328]: Scan files at:	file:///Users/jayreddy/.config/nvim/lua/
-[15:42:47.163][info] [#0:script/workspace/workspace.lua:322]: Preload start:	<fallback>
-[15:42:47.165][info] [#0:script/workspace/workspace.lua:351]: Scan library at:	file:///Users/jayreddy/.config/nvim/mason/packages/lua-language-server/libexec/meta/Lua%205.4%20en-us%20utf8/string.lua
-[15:42:47.166][info] [#0:script/workspace/workspace.lua:351]: Scan library at:	file:///Users/jayreddy/.config/nvim/mason/packages/lua-language-server/libexec/meta/Lua%205.4%20en-us%20utf8/io.lua
-[15:42:47.166][info] [#0:script/workspace/workspace.lua:351]: Scan library at:	file:///Users/jayreddy/.config/nvim/mason/packages/lua-language-server/libexec/meta/Lua%205.4%20en-us%20utf8/math.lua
-[15:42:47.166][info] [#0:script/workspace/workspace.lua:351]: Scan library at:	file:///Users/jayreddy/.config/nvim/mason/packages/lua-language-server/libexec/meta/Lua%205.4%20en-us%20utf8/string.lua
-[15:42:47.166][info] [#0:script/workspace/workspace.lua:351]: Scan library at:	file:///Users/jayreddy/.config/nvim/mason/packages/lua-language-server/libexec/meta/Lua%205.4%20en-us%20utf8/debug.lua
-[15:42:47.167][info] [#0:script/workspace/workspace.lua:351]: Scan library at:	file:///Users/jayreddy/.config/nvim/mason/packages/lua-language-server/libexec/meta/Lua%205.4%20en-us%20utf8/io.lua
-[15:42:47.167][info] [#0:script/workspace/workspace.lua:351]: Scan library at:	file:///Users/jayreddy/.config/nvim/mason/packages/lua-language-server/libexec/meta/Lua%205.4%20en-us%20utf8/basic.lua
-[15:42:47.167][info] [#0:script/workspace/workspace.lua:351]: Scan library at:	file:///Users/jayreddy/.config/nvim/mason/packages/lua-language-server/libexec/meta/Lua%205.4%20en-us%20utf8/math.lua
-[15:42:47.167][info] [#0:script/workspace/workspace.lua:351]: Scan library at:	file:///Users/jayreddy/.config/nvim/mason/packages/lua-language-server/libexec/meta/Lua%205.4%20en-us%20utf8/builtin.lua
-[15:42:47.167][info] [#0:script/workspace/workspace.lua:351]: Scan library at:	file:///Users/jayreddy/.config/nvim/mason/packages/lua-language-server/libexec/meta/Lua%205.4%20en-us%20utf8/debug.lua
-[15:42:47.167][info] [#0:script/workspace/workspace.lua:351]: Scan library at:	file:///Users/jayreddy/.config/nvim/mason/packages/lua-language-server/libexec/meta/Lua%205.4%20en-us%20utf8/package.lua
-[15:42:47.167][info] [#0:script/workspace/workspace.lua:351]: Scan library at:	file:///Users/jayreddy/.config/nvim/mason/packages/lua-language-server/libexec/meta/Lua%205.4%20en-us%20utf8/basic.lua
-[15:42:47.168][info] [#0:script/workspace/workspace.lua:351]: Scan library at:	file:///Users/jayreddy/.config/nvim/mason/packages/lua-language-server/libexec/meta/Lua%205.4%20en-us%20utf8/table.lua
-[15:42:47.168][info] [#0:script/workspace/workspace.lua:351]: Scan library at:	file:///Users/jayreddy/.config/nvim/mason/packages/lua-language-server/libexec/meta/Lua%205.4%20en-us%20utf8/builtin.lua
-[15:42:47.168][info] [#0:script/workspace/workspace.lua:351]: Scan library at:	file:///Users/jayreddy/.config/nvim/mason/packages/lua-language-server/libexec/meta/Lua%205.4%20en-us%20utf8/coroutine.lua
-[15:42:47.168][info] [#0:script/workspace/workspace.lua:351]: Scan library at:	file:///Users/jayreddy/.config/nvim/mason/packages/lua-language-server/libexec/meta/Lua%205.4%20en-us%20utf8/package.lua
-[15:42:47.168][info] [#0:script/workspace/workspace.lua:351]: Scan library at:	file:///Users/jayreddy/.config/nvim/mason/packages/lua-language-server/libexec/meta/Lua%205.4%20en-us%20utf8/os.lua
-[15:42:47.168][info] [#0:script/workspace/workspace.lua:351]: Scan library at:	file:///Users/jayreddy/.config/nvim/mason/packages/lua-language-server/libexec/meta/Lua%205.4%20en-us%20utf8/table.lua
-[15:42:47.168][info] [#0:script/workspace/workspace.lua:351]: Scan library at:	file:///Users/jayreddy/.config/nvim/mason/packages/lua-language-server/libexec/meta/Lua%205.4%20en-us%20utf8/utf8.lua
-[15:42:47.169][info] [#0:script/workspace/workspace.lua:351]: Scan library at:	file:///Users/jayreddy/.config/nvim/mason/packages/lua-language-server/libexec/meta/Lua%205.4%20en-us%20utf8/coroutine.lua
-[15:42:47.169][info] [#0:script/workspace/workspace.lua:351]: Scan library at:	file:///Users/jayreddy/.config/nvim/mason/packages/lua-language-server/libexec/meta/Lua%205.4%20en-us%20utf8/os.lua
-[15:42:47.169][info] [#0:script/workspace/workspace.lua:351]: Scan library at:	file:///Users/jayreddy/.config/nvim/mason/packages/lua-language-server/libexec/meta/Lua%205.4%20en-us%20utf8/utf8.lua
-[15:42:47.274][info] [#0:script/workspace/workspace.lua:377]: Found 11 files at:	<fallback>
-[15:42:47.274][info] [#0:script/workspace/loading.lua:161]: Load files from disk:	<fallback>
-[15:42:47.274][info] [#0:script/workspace/workspace.lua:377]: Found 14 files at:	file:///Users/jayreddy/.config/nvim/lua/
-[15:42:47.274][info] [#0:script/workspace/loading.lua:161]: Load files from disk:	file:///Users/jayreddy/.config/nvim/lua/
-[15:42:47.380][info] [#0:script/workspace/loading.lua:101]: Preload file at: file:///Users/jayreddy/.config/nvim/mason/packages/lua-language-server/libexec/meta/Lua%205.4%20en-us%20utf8/utf8.lua , size = 2.386 KB
-[15:42:47.385][info] [#0:script/workspace/loading.lua:113]: ++++As library of:	file:///Users/jayreddy/.config/nvim/mason/packages/lua-language-server/libexec/meta/Lua%205.4%20en-us%20utf8/utf8.lua
-[15:42:47.385][info] [#0:script/workspace/loading.lua:98]: Skip loaded file: file:///Users/jayreddy/.config/nvim/mason/packages/lua-language-server/libexec/meta/Lua%205.4%20en-us%20utf8/utf8.lua
-[15:42:47.385][info] [#0:script/workspace/loading.lua:101]: Preload file at: file:///Users/jayreddy/.config/nvim/mason/packages/lua-language-server/libexec/meta/Lua%205.4%20en-us%20utf8/os.lua , size = 4.347 KB
-[15:42:47.393][info] [#0:script/workspace/loading.lua:113]: ++++As library of:	file:///Users/jayreddy/.config/nvim/mason/packages/lua-language-server/libexec/meta/Lua%205.4%20en-us%20utf8/os.lua
-[15:42:47.393][info] [#0:script/workspace/loading.lua:98]: Skip loaded file: file:///Users/jayreddy/.config/nvim/mason/packages/lua-language-server/libexec/meta/Lua%205.4%20en-us%20utf8/os.lua
-[15:42:47.393][info] [#0:script/workspace/loading.lua:101]: Preload file at: file:///Users/jayreddy/.config/nvim/mason/packages/lua-language-server/libexec/meta/Lua%205.4%20en-us%20utf8/coroutine.lua , size = 2.590 KB
-[15:42:47.395][info] [#0:script/workspace/loading.lua:113]: ++++As library of:	file:///Users/jayreddy/.config/nvim/mason/packages/lua-language-server/libexec/meta/Lua%205.4%20en-us%20utf8/coroutine.lua
-[15:42:47.395][info] [#0:script/workspace/loading.lua:98]: Skip loaded file: file:///Users/jayreddy/.config/nvim/mason/packages/lua-language-server/libexec/meta/Lua%205.4%20en-us%20utf8/coroutine.lua
-[15:42:47.395][info] [#0:script/workspace/loading.lua:101]: Preload file at: file:///Users/jayreddy/.config/nvim/mason/packages/lua-language-server/libexec/meta/Lua%205.4%20en-us%20utf8/table.lua , size = 4.230 KB
-[15:42:47.396][info] [#0:script/workspace/loading.lua:113]: ++++As library of:	file:///Users/jayreddy/.config/nvim/mason/packages/lua-language-server/libexec/meta/Lua%205.4%20en-us%20utf8/table.lua
-[15:42:47.396][info] [#0:script/workspace/loading.lua:98]: Skip loaded file: file:///Users/jayreddy/.config/nvim/mason/packages/lua-language-server/libexec/meta/Lua%205.4%20en-us%20utf8/table.lua
-[15:42:47.396][info] [#0:script/workspace/loading.lua:101]: Preload file at: file:///Users/jayreddy/.config/nvim/mason/packages/lua-language-server/libexec/meta/Lua%205.4%20en-us%20utf8/package.lua , size = 2.944 KB
-[15:42:47.398][info] [#0:script/workspace/loading.lua:113]: ++++As library of:	file:///Users/jayreddy/.config/nvim/mason/packages/lua-language-server/libexec/meta/Lua%205.4%20en-us%20utf8/package.lua
-[15:42:47.398][info] [#0:script/workspace/loading.lua:98]: Skip loaded file: file:///Users/jayreddy/.config/nvim/mason/packages/lua-language-server/libexec/meta/Lua%205.4%20en-us%20utf8/package.lua
-[15:42:47.398][info] [#0:script/workspace/loading.lua:101]: Preload file at: file:///Users/jayreddy/.config/nvim/mason/packages/lua-language-server/libexec/meta/Lua%205.4%20en-us%20utf8/builtin.lua , size = 0.302 KB
-[15:42:47.398][info] [#0:script/workspace/loading.lua:113]: ++++As library of:	file:///Users/jayreddy/.config/nvim/mason/packages/lua-language-server/libexec/meta/Lua%205.4%20en-us%20utf8/builtin.lua
-[15:42:47.398][info] [#0:script/workspace/loading.lua:98]: Skip loaded file: file:///Users/jayreddy/.config/nvim/mason/packages/lua-language-server/libexec/meta/Lua%205.4%20en-us%20utf8/builtin.lua
-[15:42:47.398][info] [#0:script/workspace/loading.lua:101]: Preload file at: file:///Users/jayreddy/.config/nvim/mason/packages/lua-language-server/libexec/meta/Lua%205.4%20en-us%20utf8/basic.lua , size = 14.160 KB
-[15:42:47.401][info] [#0:script/workspace/loading.lua:113]: ++++As library of:	file:///Users/jayreddy/.config/nvim/mason/packages/lua-language-server/libexec/meta/Lua%205.4%20en-us%20utf8/basic.lua
-[15:42:47.402][info] [#0:script/workspace/loading.lua:98]: Skip loaded file: file:///Users/jayreddy/.config/nvim/mason/packages/lua-language-server/libexec/meta/Lua%205.4%20en-us%20utf8/basic.lua
-[15:42:47.402][info] [#0:script/workspace/loading.lua:101]: Preload file at: file:///Users/jayreddy/.config/nvim/mason/packages/lua-language-server/libexec/meta/Lua%205.4%20en-us%20utf8/debug.lua , size = 7.637 KB
-[15:42:47.405][info] [#0:script/workspace/loading.lua:113]: ++++As library of:	file:///Users/jayreddy/.config/nvim/mason/packages/lua-language-server/libexec/meta/Lua%205.4%20en-us%20utf8/debug.lua
-[15:42:47.405][info] [#0:script/workspace/loading.lua:101]: Preload file at: file:///Users/jayreddy/.config/nvim/mason/packages/lua-language-server/libexec/meta/Lua%205.4%20en-us%20utf8/math.lua , size = 8.731 KB
-[15:42:47.407][info] [#0:script/workspace/loading.lua:113]: ++++As library of:	file:///Users/jayreddy/.config/nvim/mason/packages/lua-language-server/libexec/meta/Lua%205.4%20en-us%20utf8/math.lua
-[15:42:47.407][info] [#0:script/workspace/loading.lua:98]: Skip loaded file: file:///Users/jayreddy/.config/nvim/mason/packages/lua-language-server/libexec/meta/Lua%205.4%20en-us%20utf8/debug.lua
-[15:42:47.407][info] [#0:script/workspace/loading.lua:98]: Skip loaded file: file:///Users/jayreddy/.config/nvim/mason/packages/lua-language-server/libexec/meta/Lua%205.4%20en-us%20utf8/math.lua
-[15:42:47.407][info] [#0:script/workspace/loading.lua:101]: Preload file at: file:///Users/jayreddy/.config/nvim/mason/packages/lua-language-server/libexec/meta/Lua%205.4%20en-us%20utf8/io.lua , size = 6.364 KB
-[15:42:47.409][info] [#0:script/workspace/loading.lua:113]: ++++As library of:	file:///Users/jayreddy/.config/nvim/mason/packages/lua-language-server/libexec/meta/Lua%205.4%20en-us%20utf8/io.lua
-[15:42:47.409][info] [#0:script/workspace/loading.lua:101]: Preload file at: file:///Users/jayreddy/.config/nvim/mason/packages/lua-language-server/libexec/meta/Lua%205.4%20en-us%20utf8/string.lua , size = 6.302 KB
-[15:42:47.411][info] [#0:script/workspace/loading.lua:113]: ++++As library of:	file:///Users/jayreddy/.config/nvim/mason/packages/lua-language-server/libexec/meta/Lua%205.4%20en-us%20utf8/string.lua
-[15:42:47.411][info] [#0:script/workspace/loading.lua:98]: Skip loaded file: file:///Users/jayreddy/.config/nvim/mason/packages/lua-language-server/libexec/meta/Lua%205.4%20en-us%20utf8/io.lua
-[15:42:47.411][info] [#0:script/workspace/loading.lua:98]: Skip loaded file: file:///Users/jayreddy/.config/nvim/mason/packages/lua-language-server/libexec/meta/Lua%205.4%20en-us%20utf8/string.lua
-[15:42:47.411][info] [#0:script/workspace/loading.lua:101]: Preload file at: file:///Users/jayreddy/.config/nvim/lua/jayreddy/init.lua , size = 0.025 KB
-[15:42:47.411][info] [#0:script/workspace/loading.lua:101]: Preload file at: file:///Users/jayreddy/.config/nvim/lua/jayreddy/remap.lua , size = 0.265 KB
-[15:42:47.411][info] [#0:script/workspace/loading.lua:101]: Preload file at: file:///Users/jayreddy/.config/nvim/lua/jayreddy/packer.lua , size = 0.671 KB
-[15:42:47.517][info] [#0:script/workspace/loading.lua:173]: Loaded files takes [0.039] sec: <fallback>
-[15:42:47.517][info] [#0:script/workspace/loading.lua:182]: Compile files takes [0.000] sec: <fallback>
-[15:42:47.517][info] [#0:script/workspace/loading.lua:183]: Loaded finish:	<fallback>
-[15:42:47.517][info] [#0:script/workspace/workspace.lua:379]: Preload finish at:	<fallback>
-[15:42:47.533][info] [#0:script/workspace/loading.lua:173]: Loaded files takes [0.053] sec: file:///Users/jayreddy/.config/nvim/lua/
-[15:42:47.533][info] [#0:script/workspace/loading.lua:182]: Compile files takes [0.000] sec: file:///Users/jayreddy/.config/nvim/lua/
-[15:42:47.533][info] [#0:script/workspace/loading.lua:183]: Loaded finish:	file:///Users/jayreddy/.config/nvim/lua/
-[15:42:47.533][info] [#0:script/workspace/workspace.lua:379]: Preload finish at:	file:///Users/jayreddy/.config/nvim/lua/
-[15:42:47.534][info] [#0:script/provider/diagnostic.lua:557]: Diagnostics scope [file:///Users/jayreddy/.config/nvim/lua/], files count:[14]
-[15:42:47.541][info] [#0:script/provider/diagnostic.lua:574]: Diagnostics scope [file:///Users/jayreddy/.config/nvim/lua/] finished, takes [0.005] sec.
-[15:43:37.486][info] [#0:script/provider/diagnostic.lua:171]: clearDiagnostics	file:///Users/jayreddy/.config/nvim/after/plugin/treesitter.lua
-[15:43:57.297][info] [#0:script/provider/diagnostic.lua:171]: clearDiagnostics	file:///Users/jayreddy/.config/nvim/after/plugin/treesitter.lua
-[15:44:13.030][info] [#0:script/provider/diagnostic.lua:171]: clearDiagnostics	file:///Users/jayreddy/.config/nvim/after/plugin/treesitter.lua
-[15:44:33.904][info] [#0:script/provider/diagnostic.lua:171]: clearDiagnostics	file:///Users/jayreddy/.config/nvim/lua/jayreddy/init.lua
-[15:44:40.228][info] [#0:script/workspace/workspace.lua:282]: Scan files at:	file:///Users/jayreddy/.config/nvim/lua/jayreddy/init.lua
-[15:44:40.229][info] [#0:script/workspace/loading.lua:161]: Load files from disk:	file:///Users/jayreddy/.config/nvim/lua/jayreddy/init.lua
-[15:44:40.229][info] [#0:script/workspace/loading.lua:89]: Skip loaded file: file:///Users/jayreddy/.config/nvim/lua/jayreddy/init.lua
-[15:44:40.229][info] [#0:script/workspace/loading.lua:173]: Loaded files takes [0.000] sec: file:///Users/jayreddy/.config/nvim/lua/jayreddy/init.lua
-[15:44:40.229][info] [#0:script/workspace/loading.lua:182]: Compile files takes [0.000] sec: file:///Users/jayreddy/.config/nvim/lua/jayreddy/init.lua
-[15:44:40.229][info] [#0:script/workspace/loading.lua:183]: Loaded finish:	file:///Users/jayreddy/.config/nvim/lua/jayreddy/init.lua
-[15:44:40.528][info] [#0:script/workspace/workspace.lua:282]: Scan files at:	file:///Users/jayreddy/.config/nvim/lua/jayreddy/init.lua
-[15:44:40.528][info] [#0:script/workspace/loading.lua:161]: Load files from disk:	file:///Users/jayreddy/.config/nvim/lua/jayreddy/init.lua
-[15:44:40.528][info] [#0:script/workspace/loading.lua:89]: Skip loaded file: file:///Users/jayreddy/.config/nvim/lua/jayreddy/init.lua
-[15:44:40.528][info] [#0:script/workspace/loading.lua:173]: Loaded files takes [0.000] sec: file:///Users/jayreddy/.config/nvim/lua/jayreddy/init.lua
-[15:44:40.528][info] [#0:script/workspace/loading.lua:182]: Compile files takes [0.000] sec: file:///Users/jayreddy/.config/nvim/lua/jayreddy/init.lua
-[15:44:40.528][info] [#0:script/workspace/loading.lua:183]: Loaded finish:	file:///Users/jayreddy/.config/nvim/lua/jayreddy/init.lua
-[15:44:41.302][info] [#0:script/provider/provider.lua:169]: Server shutdown.
-[15:44:41.406][info] [#0:script/provider/provider.lua:162]: Server exited.
-[15:52:45.139][info] [#0:script/service/service.lua:144]: 
+[10:56:06.670][info] [#0:script/workspace/workspace.lua:322]: Preload start:	file:///Users/jayreddy/.config/nvim/lua/
+[10:56:06.673][info] [#0:script/workspace/workspace.lua:328]: Scan files at:	file:///Users/jayreddy/.config/nvim/lua/
+[10:56:06.674][info] [#0:script/workspace/workspace.lua:322]: Preload start:	<fallback>
+[10:56:06.676][info] [#0:script/workspace/workspace.lua:351]: Scan library at:	file:///Users/jayreddy/.config/nvim/mason/packages/lua-language-server/libexec/meta/Lua%205.4%20en-us%20utf8/string.lua
+[10:56:06.677][info] [#0:script/workspace/workspace.lua:351]: Scan library at:	file:///Users/jayreddy/.config/nvim/mason/packages/lua-language-server/libexec/meta/Lua%205.4%20en-us%20utf8/io.lua
+[10:56:06.677][info] [#0:script/workspace/workspace.lua:351]: Scan library at:	file:///Users/jayreddy/.config/nvim/mason/packages/lua-language-server/libexec/meta/Lua%205.4%20en-us%20utf8/math.lua
+[10:56:06.677][info] [#0:script/workspace/workspace.lua:351]: Scan library at:	file:///Users/jayreddy/.config/nvim/mason/packages/lua-language-server/libexec/meta/Lua%205.4%20en-us%20utf8/string.lua
+[10:56:06.677][info] [#0:script/workspace/workspace.lua:351]: Scan library at:	file:///Users/jayreddy/.config/nvim/mason/packages/lua-language-server/libexec/meta/Lua%205.4%20en-us%20utf8/debug.lua
+[10:56:06.678][info] [#0:script/workspace/workspace.lua:351]: Scan library at:	file:///Users/jayreddy/.config/nvim/mason/packages/lua-language-server/libexec/meta/Lua%205.4%20en-us%20utf8/io.lua
+[10:56:06.678][info] [#0:script/workspace/workspace.lua:351]: Scan library at:	file:///Users/jayreddy/.config/nvim/mason/packages/lua-language-server/libexec/meta/Lua%205.4%20en-us%20utf8/basic.lua
+[10:56:06.678][info] [#0:script/workspace/workspace.lua:351]: Scan library at:	file:///Users/jayreddy/.config/nvim/mason/packages/lua-language-server/libexec/meta/Lua%205.4%20en-us%20utf8/math.lua
+[10:56:06.681][info] [#0:script/workspace/workspace.lua:351]: Scan library at:	file:///Users/jayreddy/.config/nvim/mason/packages/lua-language-server/libexec/meta/Lua%205.4%20en-us%20utf8/builtin.lua
+[10:56:06.681][info] [#0:script/workspace/workspace.lua:351]: Scan library at:	file:///Users/jayreddy/.config/nvim/mason/packages/lua-language-server/libexec/meta/Lua%205.4%20en-us%20utf8/debug.lua
+[10:56:06.681][info] [#0:script/workspace/workspace.lua:351]: Scan library at:	file:///Users/jayreddy/.config/nvim/mason/packages/lua-language-server/libexec/meta/Lua%205.4%20en-us%20utf8/package.lua
+[10:56:06.681][info] [#0:script/workspace/workspace.lua:351]: Scan library at:	file:///Users/jayreddy/.config/nvim/mason/packages/lua-language-server/libexec/meta/Lua%205.4%20en-us%20utf8/basic.lua
+[10:56:06.681][info] [#0:script/workspace/workspace.lua:351]: Scan library at:	file:///Users/jayreddy/.config/nvim/mason/packages/lua-language-server/libexec/meta/Lua%205.4%20en-us%20utf8/table.lua
+[10:56:06.681][info] [#0:script/workspace/workspace.lua:351]: Scan library at:	file:///Users/jayreddy/.config/nvim/mason/packages/lua-language-server/libexec/meta/Lua%205.4%20en-us%20utf8/builtin.lua
+[10:56:06.682][info] [#0:script/workspace/workspace.lua:351]: Scan library at:	file:///Users/jayreddy/.config/nvim/mason/packages/lua-language-server/libexec/meta/Lua%205.4%20en-us%20utf8/coroutine.lua
+[10:56:06.682][info] [#0:script/workspace/workspace.lua:351]: Scan library at:	file:///Users/jayreddy/.config/nvim/mason/packages/lua-language-server/libexec/meta/Lua%205.4%20en-us%20utf8/package.lua
+[10:56:06.682][info] [#0:script/workspace/workspace.lua:351]: Scan library at:	file:///Users/jayreddy/.config/nvim/mason/packages/lua-language-server/libexec/meta/Lua%205.4%20en-us%20utf8/os.lua
+[10:56:06.682][info] [#0:script/workspace/workspace.lua:351]: Scan library at:	file:///Users/jayreddy/.config/nvim/mason/packages/lua-language-server/libexec/meta/Lua%205.4%20en-us%20utf8/table.lua
+[10:56:06.682][info] [#0:script/workspace/workspace.lua:351]: Scan library at:	file:///Users/jayreddy/.config/nvim/mason/packages/lua-language-server/libexec/meta/Lua%205.4%20en-us%20utf8/utf8.lua
+[10:56:06.682][info] [#0:script/workspace/workspace.lua:351]: Scan library at:	file:///Users/jayreddy/.config/nvim/mason/packages/lua-language-server/libexec/meta/Lua%205.4%20en-us%20utf8/coroutine.lua
+[10:56:06.682][info] [#0:script/workspace/workspace.lua:351]: Scan library at:	file:///Users/jayreddy/.config/nvim/mason/packages/lua-language-server/libexec/meta/Lua%205.4%20en-us%20utf8/os.lua
+[10:56:06.683][info] [#0:script/workspace/workspace.lua:351]: Scan library at:	file:///Users/jayreddy/.config/nvim/mason/packages/lua-language-server/libexec/meta/Lua%205.4%20en-us%20utf8/utf8.lua
+[10:56:06.785][info] [#0:script/workspace/workspace.lua:377]: Found 11 files at:	<fallback>
+[10:56:06.785][info] [#0:script/workspace/loading.lua:161]: Load files from disk:	<fallback>
+[10:56:06.785][info] [#0:script/workspace/workspace.lua:377]: Found 14 files at:	file:///Users/jayreddy/.config/nvim/lua/
+[10:56:06.785][info] [#0:script/workspace/loading.lua:161]: Load files from disk:	file:///Users/jayreddy/.config/nvim/lua/
+[10:56:06.892][info] [#0:script/workspace/loading.lua:101]: Preload file at: file:///Users/jayreddy/.config/nvim/mason/packages/lua-language-server/libexec/meta/Lua%205.4%20en-us%20utf8/utf8.lua , size = 2.386 KB
+[10:56:06.897][info] [#0:script/workspace/loading.lua:113]: ++++As library of:	file:///Users/jayreddy/.config/nvim/mason/packages/lua-language-server/libexec/meta/Lua%205.4%20en-us%20utf8/utf8.lua
+[10:56:06.897][info] [#0:script/workspace/loading.lua:101]: Preload file at: file:///Users/jayreddy/.config/nvim/mason/packages/lua-language-server/libexec/meta/Lua%205.4%20en-us%20utf8/os.lua , size = 4.347 KB
+[10:56:06.903][info] [#0:script/workspace/loading.lua:113]: ++++As library of:	file:///Users/jayreddy/.config/nvim/mason/packages/lua-language-server/libexec/meta/Lua%205.4%20en-us%20utf8/os.lua
+[10:56:06.903][info] [#0:script/workspace/loading.lua:98]: Skip loaded file: file:///Users/jayreddy/.config/nvim/mason/packages/lua-language-server/libexec/meta/Lua%205.4%20en-us%20utf8/os.lua
+[10:56:06.903][info] [#0:script/workspace/loading.lua:101]: Preload file at: file:///Users/jayreddy/.config/nvim/mason/packages/lua-language-server/libexec/meta/Lua%205.4%20en-us%20utf8/coroutine.lua , size = 2.590 KB
+[10:56:06.905][info] [#0:script/workspace/loading.lua:113]: ++++As library of:	file:///Users/jayreddy/.config/nvim/mason/packages/lua-language-server/libexec/meta/Lua%205.4%20en-us%20utf8/coroutine.lua
+[10:56:06.905][info] [#0:script/workspace/loading.lua:98]: Skip loaded file: file:///Users/jayreddy/.config/nvim/mason/packages/lua-language-server/libexec/meta/Lua%205.4%20en-us%20utf8/coroutine.lua
+[10:56:06.905][info] [#0:script/workspace/loading.lua:101]: Preload file at: file:///Users/jayreddy/.config/nvim/mason/packages/lua-language-server/libexec/meta/Lua%205.4%20en-us%20utf8/table.lua , size = 4.230 KB
+[10:56:06.910][info] [#0:script/workspace/loading.lua:113]: ++++As library of:	file:///Users/jayreddy/.config/nvim/mason/packages/lua-language-server/libexec/meta/Lua%205.4%20en-us%20utf8/table.lua
+[10:56:06.910][info] [#0:script/workspace/loading.lua:98]: Skip loaded file: file:///Users/jayreddy/.config/nvim/mason/packages/lua-language-server/libexec/meta/Lua%205.4%20en-us%20utf8/table.lua
+[10:56:06.910][info] [#0:script/workspace/loading.lua:101]: Preload file at: file:///Users/jayreddy/.config/nvim/mason/packages/lua-language-server/libexec/meta/Lua%205.4%20en-us%20utf8/package.lua , size = 2.944 KB
+[10:56:06.913][info] [#0:script/workspace/loading.lua:113]: ++++As library of:	file:///Users/jayreddy/.config/nvim/mason/packages/lua-language-server/libexec/meta/Lua%205.4%20en-us%20utf8/package.lua
+[10:56:06.913][info] [#0:script/workspace/loading.lua:98]: Skip loaded file: file:///Users/jayreddy/.config/nvim/mason/packages/lua-language-server/libexec/meta/Lua%205.4%20en-us%20utf8/package.lua
+[10:56:06.913][info] [#0:script/workspace/loading.lua:101]: Preload file at: file:///Users/jayreddy/.config/nvim/mason/packages/lua-language-server/libexec/meta/Lua%205.4%20en-us%20utf8/builtin.lua , size = 0.302 KB
+[10:56:06.914][info] [#0:script/workspace/loading.lua:113]: ++++As library of:	file:///Users/jayreddy/.config/nvim/mason/packages/lua-language-server/libexec/meta/Lua%205.4%20en-us%20utf8/builtin.lua
+[10:56:06.914][info] [#0:script/workspace/loading.lua:98]: Skip loaded file: file:///Users/jayreddy/.config/nvim/mason/packages/lua-language-server/libexec/meta/Lua%205.4%20en-us%20utf8/builtin.lua
+[10:56:06.914][info] [#0:script/workspace/loading.lua:98]: Skip loaded file: file:///Users/jayreddy/.config/nvim/mason/packages/lua-language-server/libexec/meta/Lua%205.4%20en-us%20utf8/utf8.lua
+[10:56:06.914][info] [#0:script/workspace/loading.lua:101]: Preload file at: file:///Users/jayreddy/.config/nvim/mason/packages/lua-language-server/libexec/meta/Lua%205.4%20en-us%20utf8/basic.lua , size = 14.160 KB
+[10:56:06.921][info] [#0:script/workspace/loading.lua:113]: ++++As library of:	file:///Users/jayreddy/.config/nvim/mason/packages/lua-language-server/libexec/meta/Lua%205.4%20en-us%20utf8/basic.lua
+[10:56:06.921][info] [#0:script/workspace/loading.lua:98]: Skip loaded file: file:///Users/jayreddy/.config/nvim/mason/packages/lua-language-server/libexec/meta/Lua%205.4%20en-us%20utf8/basic.lua
+[10:56:06.921][info] [#0:script/workspace/loading.lua:101]: Preload file at: file:///Users/jayreddy/.config/nvim/mason/packages/lua-language-server/libexec/meta/Lua%205.4%20en-us%20utf8/debug.lua , size = 7.637 KB
+[10:56:06.926][info] [#0:script/workspace/loading.lua:113]: ++++As library of:	file:///Users/jayreddy/.config/nvim/mason/packages/lua-language-server/libexec/meta/Lua%205.4%20en-us%20utf8/debug.lua
+[10:56:06.927][info] [#0:script/workspace/loading.lua:98]: Skip loaded file: file:///Users/jayreddy/.config/nvim/mason/packages/lua-language-server/libexec/meta/Lua%205.4%20en-us%20utf8/debug.lua
+[10:56:06.927][info] [#0:script/workspace/loading.lua:101]: Preload file at: file:///Users/jayreddy/.config/nvim/mason/packages/lua-language-server/libexec/meta/Lua%205.4%20en-us%20utf8/math.lua , size = 8.731 KB
+[10:56:06.931][info] [#0:script/workspace/loading.lua:113]: ++++As library of:	file:///Users/jayreddy/.config/nvim/mason/packages/lua-language-server/libexec/meta/Lua%205.4%20en-us%20utf8/math.lua
+[10:56:06.931][info] [#0:script/workspace/loading.lua:98]: Skip loaded file: file:///Users/jayreddy/.config/nvim/mason/packages/lua-language-server/libexec/meta/Lua%205.4%20en-us%20utf8/math.lua
+[10:56:06.931][info] [#0:script/workspace/loading.lua:101]: Preload file at: file:///Users/jayreddy/.config/nvim/mason/packages/lua-language-server/libexec/meta/Lua%205.4%20en-us%20utf8/io.lua , size = 6.364 KB
+[10:56:06.934][info] [#0:script/workspace/loading.lua:113]: ++++As library of:	file:///Users/jayreddy/.config/nvim/mason/packages/lua-language-server/libexec/meta/Lua%205.4%20en-us%20utf8/io.lua
+[10:56:06.934][info] [#0:script/workspace/loading.lua:98]: Skip loaded file: file:///Users/jayreddy/.config/nvim/mason/packages/lua-language-server/libexec/meta/Lua%205.4%20en-us%20utf8/io.lua
+[10:56:06.934][info] [#0:script/workspace/loading.lua:101]: Preload file at: file:///Users/jayreddy/.config/nvim/mason/packages/lua-language-server/libexec/meta/Lua%205.4%20en-us%20utf8/string.lua , size = 6.302 KB
+[10:56:06.937][info] [#0:script/workspace/loading.lua:113]: ++++As library of:	file:///Users/jayreddy/.config/nvim/mason/packages/lua-language-server/libexec/meta/Lua%205.4%20en-us%20utf8/string.lua
+[10:56:06.937][info] [#0:script/workspace/loading.lua:98]: Skip loaded file: file:///Users/jayreddy/.config/nvim/mason/packages/lua-language-server/libexec/meta/Lua%205.4%20en-us%20utf8/string.lua
+[10:56:06.937][info] [#0:script/workspace/loading.lua:101]: Preload file at: file:///Users/jayreddy/.config/nvim/lua/jayreddy/init.lua , size = 0.025 KB
+[10:56:06.937][info] [#0:script/workspace/loading.lua:101]: Preload file at: file:///Users/jayreddy/.config/nvim/lua/jayreddy/remap.lua , size = 0.265 KB
+[10:56:06.938][info] [#0:script/workspace/loading.lua:101]: Preload file at: file:///Users/jayreddy/.config/nvim/lua/jayreddy/packer.lua , size = 0.671 KB
+[10:56:07.043][info] [#0:script/workspace/loading.lua:173]: Loaded files takes [0.054] sec: <fallback>
+[10:56:07.043][info] [#0:script/workspace/loading.lua:182]: Compile files takes [0.000] sec: <fallback>
+[10:56:07.043][info] [#0:script/workspace/loading.lua:183]: Loaded finish:	<fallback>
+[10:56:07.043][info] [#0:script/workspace/workspace.lua:379]: Preload finish at:	<fallback>
+[10:56:07.055][info] [#0:script/workspace/loading.lua:173]: Loaded files takes [0.062] sec: file:///Users/jayreddy/.config/nvim/lua/
+[10:56:07.055][info] [#0:script/workspace/loading.lua:182]: Compile files takes [0.000] sec: file:///Users/jayreddy/.config/nvim/lua/
+[10:56:07.055][info] [#0:script/workspace/loading.lua:183]: Loaded finish:	file:///Users/jayreddy/.config/nvim/lua/
+[10:56:07.055][info] [#0:script/workspace/workspace.lua:379]: Preload finish at:	file:///Users/jayreddy/.config/nvim/lua/
+[10:56:07.057][info] [#0:script/provider/diagnostic.lua:557]: Diagnostics scope [file:///Users/jayreddy/.config/nvim/lua/], files count:[15]
+[10:56:07.066][info] [#0:script/provider/diagnostic.lua:574]: Diagnostics scope [file:///Users/jayreddy/.config/nvim/lua/] finished, takes [0.007] sec.
+[10:56:09.530][info] [#0:script/workspace/workspace.lua:282]: Scan files at:	file:///Users/jayreddy/.config/nvim/lua/jayreddy/set.lua
+[10:56:09.530][info] [#0:script/workspace/loading.lua:161]: Load files from disk:	file:///Users/jayreddy/.config/nvim/lua/jayreddy/set.lua
+[10:56:09.530][info] [#0:script/workspace/loading.lua:89]: Skip loaded file: file:///Users/jayreddy/.config/nvim/lua/jayreddy/set.lua
+[10:56:09.530][info] [#0:script/workspace/loading.lua:173]: Loaded files takes [0.000] sec: file:///Users/jayreddy/.config/nvim/lua/jayreddy/set.lua
+[10:56:09.530][info] [#0:script/workspace/loading.lua:182]: Compile files takes [0.000] sec: file:///Users/jayreddy/.config/nvim/lua/jayreddy/set.lua
+[10:56:09.530][info] [#0:script/workspace/loading.lua:183]: Loaded finish:	file:///Users/jayreddy/.config/nvim/lua/jayreddy/set.lua
+[10:56:12.288][info] [#0:script/provider/diagnostic.lua:557]: Diagnostics scope [file:///Users/jayreddy/.config/nvim/lua/], files count:[15]
+[10:56:12.300][info] [#0:script/provider/diagnostic.lua:574]: Diagnostics scope [file:///Users/jayreddy/.config/nvim/lua/] finished, takes [0.012] sec.
+[10:56:16.810][info] [#0:script/provider/diagnostic.lua:171]: clearDiagnostics	file:///Users/jayreddy/.config/nvim/lua/jayreddy/set.lua
+[10:56:47.575][info] [#0:script/workspace/workspace.lua:282]: Scan files at:	file:///Users/jayreddy/.config/nvim/lua/jayreddy/init.lua
+[10:56:47.576][info] [#0:script/workspace/loading.lua:161]: Load files from disk:	file:///Users/jayreddy/.config/nvim/lua/jayreddy/init.lua
+[10:56:47.576][info] [#0:script/workspace/loading.lua:89]: Skip loaded file: file:///Users/jayreddy/.config/nvim/lua/jayreddy/init.lua
+[10:56:47.576][info] [#0:script/workspace/loading.lua:173]: Loaded files takes [0.000] sec: file:///Users/jayreddy/.config/nvim/lua/jayreddy/init.lua
+[10:56:47.576][info] [#0:script/workspace/loading.lua:182]: Compile files takes [0.000] sec: file:///Users/jayreddy/.config/nvim/lua/jayreddy/init.lua
+[10:56:47.576][info] [#0:script/workspace/loading.lua:183]: Loaded finish:	file:///Users/jayreddy/.config/nvim/lua/jayreddy/init.lua
+[10:56:49.690][info] [#0:script/provider/diagnostic.lua:557]: Diagnostics scope [file:///Users/jayreddy/.config/nvim/lua/], files count:[15]
+[10:56:49.702][info] [#0:script/provider/diagnostic.lua:574]: Diagnostics scope [file:///Users/jayreddy/.config/nvim/lua/] finished, takes [0.012] sec.
+[10:58:46.889][info] [#0:script/provider/diagnostic.lua:171]: clearDiagnostics	file:///Users/jayreddy/.config/nvim/lua/jayreddy/set.lua
+[10:58:48.968][info] [#0:script/workspace/workspace.lua:282]: Scan files at:	file:///Users/jayreddy/.config/nvim/lua/jayreddy/set.lua
+[10:58:48.969][info] [#0:script/workspace/loading.lua:161]: Load files from disk:	file:///Users/jayreddy/.config/nvim/lua/jayreddy/set.lua
+[10:58:48.969][info] [#0:script/workspace/loading.lua:89]: Skip loaded file: file:///Users/jayreddy/.config/nvim/lua/jayreddy/set.lua
+[10:58:48.969][info] [#0:script/workspace/loading.lua:173]: Loaded files takes [0.000] sec: file:///Users/jayreddy/.config/nvim/lua/jayreddy/set.lua
+[10:58:48.969][info] [#0:script/workspace/loading.lua:182]: Compile files takes [0.000] sec: file:///Users/jayreddy/.config/nvim/lua/jayreddy/set.lua
+[10:58:48.969][info] [#0:script/workspace/loading.lua:183]: Loaded finish:	file:///Users/jayreddy/.config/nvim/lua/jayreddy/set.lua
+[10:58:51.284][info] [#0:script/provider/diagnostic.lua:557]: Diagnostics scope [file:///Users/jayreddy/.config/nvim/lua/], files count:[15]
+[10:58:51.294][info] [#0:script/provider/diagnostic.lua:574]: Diagnostics scope [file:///Users/jayreddy/.config/nvim/lua/] finished, takes [0.010] sec.
+[11:06:06.434][info] [#0:script/service/service.lua:144]: 
 ========= Medical Examination Report =========
     --------------- Memory ---------------
-        Total: 6.200 MB
-        # 00 : 5.819 MB
-        # 01 : 0.094 MB
+        Total: 7.728 MB
+        # 00 : 7.351 MB
+        # 01 : 0.178 MB
         # 02 : 0.045 MB
-        # 03 : 0.196 MB
+        # 03 : 0.107 MB
         # 04 : 0.045 MB
     --------------- Coroutine ---------------
-        Total:     5
+        Total:     26
         Running:   0
         Suspended: 0
         Normal:    0
-        Dead:      5
+        Dead:      26
+    --------------- Cache ---------------
+        Total: 2
+        Dead:  1
+    ---------------  RPC  ---------------
+        Holdon:   0
+        Waiting:  0
+==============================================
+[11:11:35.583][warn] [#0:script/core/completion/completion.lua:66]: Unknown resolved id	1002
+[11:13:56.007][info] [#0:script/workspace/workspace.lua:282]: Scan files at:	file:///Users/jayreddy/.config/nvim/lua/jayreddy/set.lua
+[11:13:56.008][info] [#0:script/workspace/loading.lua:161]: Load files from disk:	file:///Users/jayreddy/.config/nvim/lua/jayreddy/set.lua
+[11:13:56.008][info] [#0:script/workspace/loading.lua:89]: Skip loaded file: file:///Users/jayreddy/.config/nvim/lua/jayreddy/set.lua
+[11:13:56.008][info] [#0:script/workspace/loading.lua:173]: Loaded files takes [0.000] sec: file:///Users/jayreddy/.config/nvim/lua/jayreddy/set.lua
+[11:13:56.008][info] [#0:script/workspace/loading.lua:182]: Compile files takes [0.000] sec: file:///Users/jayreddy/.config/nvim/lua/jayreddy/set.lua
+[11:13:56.008][info] [#0:script/workspace/loading.lua:183]: Loaded finish:	file:///Users/jayreddy/.config/nvim/lua/jayreddy/set.lua
+[11:13:58.114][info] [#0:script/provider/diagnostic.lua:557]: Diagnostics scope [file:///Users/jayreddy/.config/nvim/lua/], files count:[15]
+[11:13:58.138][info] [#0:script/provider/diagnostic.lua:574]: Diagnostics scope [file:///Users/jayreddy/.config/nvim/lua/] finished, takes [0.024] sec.
+[11:16:06.452][info] [#0:script/service/service.lua:144]: 
+========= Medical Examination Report =========
+    --------------- Memory ---------------
+        Total: 6.415 MB
+        # 00 : 6.039 MB
+        # 01 : 0.178 MB
+        # 02 : 0.045 MB
+        # 03 : 0.107 MB
+        # 04 : 0.045 MB
+    --------------- Coroutine ---------------
+        Total:     1
+        Running:   0
+        Suspended: 0
+        Normal:    0
+        Dead:      1
     --------------- Cache ---------------
         Total: 1
         Dead:  0
@@ -342,3 +381,105 @@
         Holdon:   0
         Waiting:  0
 ==============================================
+[11:16:17.554][info] [#0:script/workspace/workspace.lua:282]: Scan files at:	file:///Users/jayreddy/.config/nvim/lua/jayreddy/set.lua
+[11:16:17.555][info] [#0:script/workspace/loading.lua:161]: Load files from disk:	file:///Users/jayreddy/.config/nvim/lua/jayreddy/set.lua
+[11:16:17.555][info] [#0:script/workspace/loading.lua:89]: Skip loaded file: file:///Users/jayreddy/.config/nvim/lua/jayreddy/set.lua
+[11:16:17.555][info] [#0:script/workspace/loading.lua:173]: Loaded files takes [0.000] sec: file:///Users/jayreddy/.config/nvim/lua/jayreddy/set.lua
+[11:16:17.555][info] [#0:script/workspace/loading.lua:182]: Compile files takes [0.000] sec: file:///Users/jayreddy/.config/nvim/lua/jayreddy/set.lua
+[11:16:17.555][info] [#0:script/workspace/loading.lua:183]: Loaded finish:	file:///Users/jayreddy/.config/nvim/lua/jayreddy/set.lua
+[11:16:20.412][info] [#0:script/provider/diagnostic.lua:557]: Diagnostics scope [file:///Users/jayreddy/.config/nvim/lua/], files count:[15]
+[11:16:20.427][info] [#0:script/provider/diagnostic.lua:574]: Diagnostics scope [file:///Users/jayreddy/.config/nvim/lua/] finished, takes [0.014] sec.
+[11:16:41.593][info] [#0:script/workspace/workspace.lua:282]: Scan files at:	file:///Users/jayreddy/.config/nvim/lua/jayreddy/set.lua
+[11:16:41.593][info] [#0:script/workspace/loading.lua:161]: Load files from disk:	file:///Users/jayreddy/.config/nvim/lua/jayreddy/set.lua
+[11:16:41.594][info] [#0:script/workspace/loading.lua:89]: Skip loaded file: file:///Users/jayreddy/.config/nvim/lua/jayreddy/set.lua
+[11:16:41.595][info] [#0:script/workspace/loading.lua:173]: Loaded files takes [0.000] sec: file:///Users/jayreddy/.config/nvim/lua/jayreddy/set.lua
+[11:16:41.595][info] [#0:script/workspace/loading.lua:182]: Compile files takes [0.000] sec: file:///Users/jayreddy/.config/nvim/lua/jayreddy/set.lua
+[11:16:41.595][info] [#0:script/workspace/loading.lua:183]: Loaded finish:	file:///Users/jayreddy/.config/nvim/lua/jayreddy/set.lua
+[11:16:43.578][info] [#0:script/provider/diagnostic.lua:557]: Diagnostics scope [file:///Users/jayreddy/.config/nvim/lua/], files count:[15]
+[11:16:43.592][info] [#0:script/provider/diagnostic.lua:574]: Diagnostics scope [file:///Users/jayreddy/.config/nvim/lua/] finished, takes [0.014] sec.
+[11:25:54.427][info] [#0:script/workspace/workspace.lua:282]: Scan files at:	file:///Users/jayreddy/.config/nvim/lua/jayreddy/remap.lua
+[11:25:54.429][info] [#0:script/workspace/loading.lua:161]: Load files from disk:	file:///Users/jayreddy/.config/nvim/lua/jayreddy/remap.lua
+[11:25:54.429][info] [#0:script/workspace/loading.lua:89]: Skip loaded file: file:///Users/jayreddy/.config/nvim/lua/jayreddy/remap.lua
+[11:25:54.429][info] [#0:script/workspace/loading.lua:173]: Loaded files takes [0.000] sec: file:///Users/jayreddy/.config/nvim/lua/jayreddy/remap.lua
+[11:25:54.429][info] [#0:script/workspace/loading.lua:182]: Compile files takes [0.000] sec: file:///Users/jayreddy/.config/nvim/lua/jayreddy/remap.lua
+[11:25:54.429][info] [#0:script/workspace/loading.lua:183]: Loaded finish:	file:///Users/jayreddy/.config/nvim/lua/jayreddy/remap.lua
+[11:25:56.814][info] [#0:script/provider/diagnostic.lua:557]: Diagnostics scope [file:///Users/jayreddy/.config/nvim/lua/], files count:[15]
+[11:25:56.826][info] [#0:script/provider/diagnostic.lua:574]: Diagnostics scope [file:///Users/jayreddy/.config/nvim/lua/] finished, takes [0.011] sec.
+[11:26:06.543][info] [#0:script/service/service.lua:144]: 
+========= Medical Examination Report =========
+    --------------- Memory ---------------
+        Total: 6.876 MB
+        # 00 : 6.499 MB
+        # 01 : 0.178 MB
+        # 02 : 0.045 MB
+        # 03 : 0.107 MB
+        # 04 : 0.045 MB
+    --------------- Coroutine ---------------
+        Total:     15
+        Running:   0
+        Suspended: 0
+        Normal:    0
+        Dead:      15
+    --------------- Cache ---------------
+        Total: 3
+        Dead:  2
+    ---------------  RPC  ---------------
+        Holdon:   0
+        Waiting:  0
+==============================================
+[11:36:07.428][info] [#0:script/service/service.lua:144]: 
+========= Medical Examination Report =========
+    --------------- Memory ---------------
+        Total: 7.293 MB
+        # 00 : 6.917 MB
+        # 01 : 0.178 MB
+        # 02 : 0.045 MB
+        # 03 : 0.107 MB
+        # 04 : 0.045 MB
+    --------------- Coroutine ---------------
+        Total:     3
+        Running:   0
+        Suspended: 0
+        Normal:    0
+        Dead:      3
+    --------------- Cache ---------------
+        Total: 2
+        Dead:  1
+    ---------------  RPC  ---------------
+        Holdon:   0
+        Waiting:  0
+==============================================
+[11:36:34.524][info] [#0:script/workspace/workspace.lua:282]: Scan files at:	file:///Users/jayreddy/.config/nvim/lua/jayreddy/remap.lua
+[11:36:34.524][info] [#0:script/workspace/loading.lua:161]: Load files from disk:	file:///Users/jayreddy/.config/nvim/lua/jayreddy/remap.lua
+[11:36:34.525][info] [#0:script/workspace/loading.lua:89]: Skip loaded file: file:///Users/jayreddy/.config/nvim/lua/jayreddy/remap.lua
+[11:36:34.525][info] [#0:script/workspace/loading.lua:173]: Loaded files takes [0.000] sec: file:///Users/jayreddy/.config/nvim/lua/jayreddy/remap.lua
+[11:36:34.525][info] [#0:script/workspace/loading.lua:182]: Compile files takes [0.000] sec: file:///Users/jayreddy/.config/nvim/lua/jayreddy/remap.lua
+[11:36:34.525][info] [#0:script/workspace/loading.lua:183]: Loaded finish:	file:///Users/jayreddy/.config/nvim/lua/jayreddy/remap.lua
+[11:36:36.527][info] [#0:script/provider/diagnostic.lua:557]: Diagnostics scope [file:///Users/jayreddy/.config/nvim/lua/], files count:[15]
+[11:36:36.548][info] [#0:script/provider/diagnostic.lua:574]: Diagnostics scope [file:///Users/jayreddy/.config/nvim/lua/] finished, takes [0.021] sec.
+[11:36:42.597][info] [#0:script/workspace/workspace.lua:282]: Scan files at:	file:///Users/jayreddy/.config/nvim/lua/jayreddy/remap.lua
+[11:36:42.598][info] [#0:script/workspace/loading.lua:161]: Load files from disk:	file:///Users/jayreddy/.config/nvim/lua/jayreddy/remap.lua
+[11:36:42.598][info] [#0:script/workspace/loading.lua:89]: Skip loaded file: file:///Users/jayreddy/.config/nvim/lua/jayreddy/remap.lua
+[11:36:42.598][info] [#0:script/workspace/loading.lua:173]: Loaded files takes [0.000] sec: file:///Users/jayreddy/.config/nvim/lua/jayreddy/remap.lua
+[11:36:42.598][info] [#0:script/workspace/loading.lua:182]: Compile files takes [0.000] sec: file:///Users/jayreddy/.config/nvim/lua/jayreddy/remap.lua
+[11:36:42.598][info] [#0:script/workspace/loading.lua:183]: Loaded finish:	file:///Users/jayreddy/.config/nvim/lua/jayreddy/remap.lua
+[11:36:44.867][info] [#0:script/provider/diagnostic.lua:557]: Diagnostics scope [file:///Users/jayreddy/.config/nvim/lua/], files count:[15]
+[11:36:44.888][info] [#0:script/provider/diagnostic.lua:574]: Diagnostics scope [file:///Users/jayreddy/.config/nvim/lua/] finished, takes [0.020] sec.
+[11:36:50.673][info] [#0:script/workspace/workspace.lua:282]: Scan files at:	file:///Users/jayreddy/.config/nvim/lua/jayreddy/remap.lua
+[11:36:50.673][info] [#0:script/workspace/loading.lua:161]: Load files from disk:	file:///Users/jayreddy/.config/nvim/lua/jayreddy/remap.lua
+[11:36:50.675][info] [#0:script/workspace/loading.lua:89]: Skip loaded file: file:///Users/jayreddy/.config/nvim/lua/jayreddy/remap.lua
+[11:36:50.675][info] [#0:script/workspace/loading.lua:173]: Loaded files takes [0.002] sec: file:///Users/jayreddy/.config/nvim/lua/jayreddy/remap.lua
+[11:36:50.675][info] [#0:script/workspace/loading.lua:182]: Compile files takes [0.000] sec: file:///Users/jayreddy/.config/nvim/lua/jayreddy/remap.lua
+[11:36:50.675][info] [#0:script/workspace/loading.lua:183]: Loaded finish:	file:///Users/jayreddy/.config/nvim/lua/jayreddy/remap.lua
+[11:36:53.322][info] [#0:script/provider/diagnostic.lua:557]: Diagnostics scope [file:///Users/jayreddy/.config/nvim/lua/], files count:[15]
+[11:36:53.340][info] [#0:script/provider/diagnostic.lua:574]: Diagnostics scope [file:///Users/jayreddy/.config/nvim/lua/] finished, takes [0.018] sec.
+[11:38:57.126][info] [#0:script/workspace/workspace.lua:282]: Scan files at:	file:///Users/jayreddy/.config/nvim/lua/jayreddy/remap.lua
+[11:38:57.126][info] [#0:script/workspace/loading.lua:161]: Load files from disk:	file:///Users/jayreddy/.config/nvim/lua/jayreddy/remap.lua
+[11:38:57.126][info] [#0:script/workspace/loading.lua:89]: Skip loaded file: file:///Users/jayreddy/.config/nvim/lua/jayreddy/remap.lua
+[11:38:57.126][info] [#0:script/workspace/loading.lua:173]: Loaded files takes [0.000] sec: file:///Users/jayreddy/.config/nvim/lua/jayreddy/remap.lua
+[11:38:57.126][info] [#0:script/workspace/loading.lua:182]: Compile files takes [0.000] sec: file:///Users/jayreddy/.config/nvim/lua/jayreddy/remap.lua
+[11:38:57.127][info] [#0:script/workspace/loading.lua:183]: Loaded finish:	file:///Users/jayreddy/.config/nvim/lua/jayreddy/remap.lua
+[11:38:59.877][info] [#0:script/provider/diagnostic.lua:557]: Diagnostics scope [file:///Users/jayreddy/.config/nvim/lua/], files count:[15]
+[11:38:59.898][info] [#0:script/provider/diagnostic.lua:574]: Diagnostics scope [file:///Users/jayreddy/.config/nvim/lua/] finished, takes [0.021] sec.
+[11:39:14.618][info] [#0:script/provider/provider.lua:169]: Server shutdown.
+[11:39:14.724][info] [#0:script/provider/provider.lua:162]: Server exited.
