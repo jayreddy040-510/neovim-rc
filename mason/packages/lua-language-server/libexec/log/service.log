@@ -1,9 +1,9 @@
-[14:34:42.779][info] [#0:/Users/jayreddy/.config/nvim/mason/packages/lua-language-server/libexec/main.lua:66]: Lua Lsp startup, root: 	/Users/jayreddy/.config/nvim/mason/packages/lua-language-server/libexec
-[14:34:42.779][info] [#0:/Users/jayreddy/.config/nvim/mason/packages/lua-language-server/libexec/main.lua:67]: ROOT:	/Users/jayreddy/.config/nvim/mason/packages/lua-language-server/libexec
-[14:34:42.779][info] [#0:/Users/jayreddy/.config/nvim/mason/packages/lua-language-server/libexec/main.lua:68]: LOGPATH:	/Users/jayreddy/.config/nvim/mason/packages/lua-language-server/libexec/log
-[14:34:42.779][info] [#0:/Users/jayreddy/.config/nvim/mason/packages/lua-language-server/libexec/main.lua:69]: METAPATH:	/Users/jayreddy/.config/nvim/mason/packages/lua-language-server/libexec/meta
-[14:34:42.779][info] [#0:/Users/jayreddy/.config/nvim/mason/packages/lua-language-server/libexec/main.lua:70]: VERSION:	3.6.18
-[14:34:42.797][info] [#0:script/service/service.lua:144]: 
+[20:26:12.998][info] [#0:/Users/jayreddy/.config/nvim/mason/packages/lua-language-server/libexec/main.lua:66]: Lua Lsp startup, root: 	/Users/jayreddy/.config/nvim/mason/packages/lua-language-server/libexec
+[20:26:12.999][info] [#0:/Users/jayreddy/.config/nvim/mason/packages/lua-language-server/libexec/main.lua:67]: ROOT:	/Users/jayreddy/.config/nvim/mason/packages/lua-language-server/libexec
+[20:26:12.999][info] [#0:/Users/jayreddy/.config/nvim/mason/packages/lua-language-server/libexec/main.lua:68]: LOGPATH:	/Users/jayreddy/.config/nvim/mason/packages/lua-language-server/libexec/log
+[20:26:12.999][info] [#0:/Users/jayreddy/.config/nvim/mason/packages/lua-language-server/libexec/main.lua:69]: METAPATH:	/Users/jayreddy/.config/nvim/mason/packages/lua-language-server/libexec/meta
+[20:26:13.000][info] [#0:/Users/jayreddy/.config/nvim/mason/packages/lua-language-server/libexec/main.lua:70]: VERSION:	3.6.18
+[20:26:13.025][info] [#0:script/service/service.lua:144]: 
 ========= Medical Examination Report =========
     --------------- Memory ---------------
         Total: 2.112 MB
@@ -25,7 +25,7 @@
         Holdon:   0
         Waiting:  0
 ==============================================
-[14:34:42.800][info] [#0:script/client.lua:657]: Client init	{
+[20:26:13.029][info] [#0:script/client.lua:657]: Client init	{
   capabilities = {
     callHierarchy = {
       dynamicRegistration = false
@@ -161,7 +161,7 @@
     version = "0.8.3"
   },
   initializationOptions = {},
-  processId = 29584,
+  processId = 16307,
   rootPath = "/Users/jayreddy/.config/nvim/lua/",
   rootUri = "file:///Users/jayreddy/.config/nvim/lua/",
   trace = "off",
@@ -170,7 +170,7 @@
       uri = "file:///Users/jayreddy/.config/nvim/lua/"
     } }
 }
-[14:34:42.800][info] [#0:script/language.lua:137]: VSC language: nil
-[14:34:42.800][info] [#0:script/language.lua:138]: LS  language: en-us
-[14:34:42.800][info] [#0:script/workspace/workspace.lua:38]: Workspace init root: 	file:///Users/jayreddy/.config/nvim/lua/
-[14:34:42.800][info] [#0:script/workspace/workspace.lua:42]: Log path: 	/Users/jayreddy/.config/nvim/mason/packages/lua-language-server/libexec/log/file_Users_jayreddy_.config_nvim_lua_.log
+[20:26:13.029][info] [#0:script/language.lua:137]: VSC language: nil
+[20:26:13.029][info] [#0:script/language.lua:138]: LS  language: en-us
+[20:26:13.029][info] [#0:script/workspace/workspace.lua:38]: Workspace init root: 	file:///Users/jayreddy/.config/nvim/lua/
+[20:26:13.029][info] [#0:script/workspace/workspace.lua:42]: Log path: 	/Users/jayreddy/.config/nvim/mason/packages/lua-language-server/libexec/log/file_Users_jayreddy_.config_nvim_lua_.log

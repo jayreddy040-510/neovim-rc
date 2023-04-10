@@ -212,7 +212,7 @@
       "LSP"
     ],
     "source": {
-      "id": "pkg:npm/antlers-language-server@1.2.2"
+      "id": "pkg:npm/antlers-language-server@1.2.3"
     },
     "bin": {
       "antlersls": "npm:antlersls"
@@ -5135,7 +5135,7 @@
       "LSP"
     ],
     "source": {
-      "id": "pkg:github/Galarius/opencl-language-server@0.3",
+      "id": "pkg:github/Galarius/opencl-language-server@0.4",
       "asset": [
         {
           "target": [

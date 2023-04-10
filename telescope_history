@@ -19,3 +19,4 @@ tasks.
 .config/nvim/remap.lua
 celery_proj
 lsp.lua
+set.lua
