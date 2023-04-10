@@ -3,3 +3,4 @@ harpoon.json
 lsp-zero.info.json
 rplugin.vim
 telescope_history
+/mason/*
